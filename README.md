@@ -1,4 +1,4 @@
-# **👥 People Detection & Counting System — Team Tracka Nova**
+# **👥 People Detection & Counting System — Team Track A Nova**
 
 ## **Index**
 
