@@ -37,7 +37,7 @@ The system:
 
 ## **Team Members**
 
-**Team Name — *Tracka Nova***
+**Team Name — *Track A Nova***
 
 * **Karan Dalal (Mentor)**
 * **Namaswi Tiwari (Team Leader)**
